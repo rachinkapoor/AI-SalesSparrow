@@ -1,0 +1,12 @@
+[submodule "api"]
+	path = api
+	url = git@github.com:TrueSparrowSystems/AI-SalesSparrow-API.git
+[submodule "iOS"]
+	path = iOS
+	url = git@github.com:TrueSparrowSystems/AI-SalesSparrow-iOS-App.git
+[submodule "android"]
+	path = android
+	url = git@github.com:TrueSparrowSystems/AI-SalesSparrow-Android-App.git
+[submodule "docs"]
+	path = docs
+	url = git@github.com:TrueSparrowSystems/AI-SalesSparrow-Docs.git
